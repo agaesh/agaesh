@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @agaesh
-- 👀 I’m interested in backend programming and also AI ...
-- 🌱 I’m currently learning nodejs ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I'm Agaesh — a backend developer who enjoys building practical and efficient systems. I specialize in creating RESTful APIs, managing server-side logic, and integrating frontend frameworks like React and Laravel to deliver full-stack solutions.
 
-<!---
-agaesh/agaesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Right now, I’m working with Node.js, Express, and Firebase, and I’m always learning to improve my craft — from CRUD systems to scalable project architecture.
+
+If you’re working on something meaningful and need a backend hand, feel free to reach out: agaesh.kumar03@gmail.com
